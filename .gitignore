@@ -68,4 +68,7 @@ fastlane/test_output
 iOSInjectionProject/
 
 # Python Support
-support/
+support/Python.framework/
+support/BZip2.framework/
+support/OpenSSL.framework/
+support/XZ.framework/
